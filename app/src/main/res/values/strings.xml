@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Just Java</string>
+
+    <string name="quantity">quantity</string>
+    <string name="quantity_number">0</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">ORDER</string>
+    <string name="price_text">price</string>
+    <string name="price_number">$10</string>
+    <string name="decrement">-</string>
+    <string name="increment">+</string>
+    <string name="thanks_you">Thanks you!! :)</string>
+    <string name="total">Total = $</string>
+
+</resources>
